@@ -38,7 +38,10 @@ To analyze heart disease data and identify key factors that influence the likeli
 
 ## 📁 Dataset
 
-The dataset used in this project is typically sourced from [UCI Machine Learning Repository – Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease) or similar platforms.
+## 📁 Dataset
+
+The dataset used in this project was sourced from Kaggle:  
+🔗 [Heart Disease Dataset – Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
 
 ---
 
